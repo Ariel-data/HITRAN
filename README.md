@@ -1,9 +1,8 @@
 # HITRAN
 HITRAN line lists and their completeness
 
-----------------------------------------------------
-Molecule              |  Completeness of HITRAN lists
------------------------------------------------------
+Molecule              |  Completeness 
+----------------------|-----------------------------------
 H2O                   |  Complete up to 500 K
 CO2                   |  Complete up to 500 K
 O3                    |  Complete up to 300 K
@@ -59,3 +58,7 @@ GeH4                  |  Complete where we have data
 CS2                   |  Complete at 300 K
 CH3I                  |  Complete where we have data
 NF3                   |  Complete at 300 K
+
+
+
+
